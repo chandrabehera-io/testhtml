@@ -1,0 +1,18 @@
+#img1 {
+  height: 500px;
+  width: 700px;
+}
+#img2 {
+  height: 500px;
+  width: 700px;
+}
+body {
+  background-color: black;
+  margin-left: 300px;
+  margin-top: 200px;
+}
+h1 {
+  color: white;
+  text-align: left;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
